@@ -1,0 +1,2 @@
+# RobotExperienceVerbalization
+Combining Episodic Memory and LLMs for the Verbalization of Robot Experiences
